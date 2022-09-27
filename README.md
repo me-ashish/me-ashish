@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @me-ashish
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Laravel
-- 💞️ I’m looking to collaborate on some companies.
+- 🌱 I’m working as an Front-End Developer (Angular).
 - 📫 How to reach me ashishrijal86@gmail.com
 
 <!---
